@@ -46,7 +46,7 @@ The following **additional** features are implemented:
 # Winning the Game
 ![Winning](https://cdn.glitch.com/b1eb3703-70ee-4a3f-b444-c6ba7e218661%2Fwin.gif?v=1616604781038)
 # Full Video
-![Full Video](https://recordit.co/01BoNI3jyi)
+![Full Video](https://imgur.com/gallery/5730qIo)
 
 
 ## Reflection Questions
