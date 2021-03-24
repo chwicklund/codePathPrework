@@ -46,7 +46,8 @@ The following **additional** features are implemented:
 # Winning the Game
 ![Winning](https://cdn.glitch.com/b1eb3703-70ee-4a3f-b444-c6ba7e218661%2Fwin.gif?v=1616604781038)
 # Full Video
-![Full Video](https://imgur.com/gallery/5730qIo)
+![Full Video](https://i.imgur.com/hB2yYO6.mp4)
+(Note: The audio is not reflected in the video, but it is fully functional)
 
 
 ## Reflection Questions
