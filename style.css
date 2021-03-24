@@ -1,0 +1,63 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  margin: 2em;
+  background-color: #160F19;
+    color: white; 
+}
+
+button {
+  font-family: 'Montserrat', sans-serif;
+  padding: 10px;
+  border-radius: 10px;  
+}
+
+#gameButtonArea > button {
+  width:200px;
+  height:200px;
+  margin:2px;
+}
+
+#button1 {
+    background: #B70600;
+}
+
+#button2 {
+    background: #0BBE85;
+}
+
+#button3 {
+    background: #CDB505;
+}
+
+#button4 {
+    background: #12B4CB;
+}
+
+#button1:active, #button1.lit {
+    background: #F70600;
+}
+
+#button2:active, #button2.lit {
+    background: #0BEE85;
+}
+
+#button3:active, #button3.lit {
+    background: #FDE505;
+}
+
+#button4:active, #button4.lit {
+    background: #12D4FB;
+}
+
+
+
+.hidden {
+  display: none;
+}
+
+h1 {
+  font-family: 'Sen', sans-serif;
+  color: #84C3F8
+}
